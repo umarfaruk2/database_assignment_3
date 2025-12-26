@@ -24,7 +24,7 @@ not exists expect that not finds any data from bookings table whene that make it
 
 ### Query 4: GROUP BY HAVING
 
-- In this query first we join that bookings and vehicles table from geting all information of both of them. then group by vehicle_name that we find from inner join table then use having to show which vehicle have in bookings more than 2. use count to calculate specific vehicle.
+- In this query first we join that bookings and vehicles table from geting all information of both of them. then group by vehicle_name that we find from inner join table then use having to show which vehicle have in bookings more than 2. use count to calculate number of specific vehicle.
 
 
 
